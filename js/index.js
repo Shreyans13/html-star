@@ -20,8 +20,8 @@ languages["Non-Technical Skills"] = [
   "Work Under Pressure",
 ];
 languages["Work"] = ["Purescript", "Haskell"];
-var w = 960,
-  h = 500;
+var w = window.innerWidth,
+  h = window.innerHeight;
 
 var labelDistance = 0;
 
